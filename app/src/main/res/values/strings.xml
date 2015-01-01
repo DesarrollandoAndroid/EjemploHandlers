@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EjemploHandlers</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Botones -->
+    <string name="btProgress">Simulando una descarga</string>
+    <string name="btProgressBar">Iniciar ProgressBar</string>
+
+</resources>
